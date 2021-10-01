@@ -1,0 +1,43 @@
+body {
+	background-color: gray
+}
+h1 {
+	color: blue;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 27px;
+	font-weight: bold;
+	font-family: "Serif", Georgia
+}
+
+h2 {
+	font-size: 20px;
+	text-decoration: underline;
+	font-family: "Helvetica", helvetica;
+	text-align: center;
+	background-color: white;
+	color: black;
+	margin-left: 340px;
+	margin-right: 340px;
+	border: inset #606060;
+	border-radius: 25px
+
+}
+
+
+p {
+	color: black;
+	background-color: white;
+	font-size: 20px;
+	text-align: center;
+	font-family: "sans-serif", arial;
+	margin-left: 450px;
+	margin-right: 450px;
+	border: outset #606060;
+	border-radius: 25px
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
